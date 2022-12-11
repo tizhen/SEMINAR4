@@ -1,0 +1,15 @@
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.csproj.AssemblyReference.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.AssemblyInfoInputs.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.AssemblyInfo.cs
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\bin\Debug\net6.0\Task29_1.exe
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\bin\Debug\net6.0\Task29_1.deps.json
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\bin\Debug\net6.0\Task29_1.runtimeconfig.json
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\bin\Debug\net6.0\Task29_1.dll
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\bin\Debug\net6.0\Task29_1.pdb
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.dll
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\refint\Task29_1.dll
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.pdb
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\Task29_1.genruntimeconfig.cache
+C:\Users\Zhenya\Desktop\Git\SEMINAR4\Task29_1\obj\Debug\net6.0\ref\Task29_1.dll
